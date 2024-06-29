@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "말뭉치 매핑"
 title_separator          : "-"
-subtitle                 : ""
+subtitle                 : "숲속나무"
 name                     : "숲속나무"
 description              : "그것을 제대로 본적이 없다면 본적이 없는것"
 url                      : "https://TriinFrst.github.io"
