@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "말뭉치매핑"
+title                    : "숲속나무"
 title_separator          : "-"
-subtitle                 : "그것을 제대로 본적이 없다면 본적이 없는것"
+subtitle                 : "말뭉치매핑 ◀ 그것을 제대로 본적이 없다면 본적이 없는것"
 name                     : "숲속나무"
 description              : ""
 url                      : "https://TriinFrst.github.io"
